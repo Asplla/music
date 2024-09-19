@@ -1,12 +1,12 @@
 {
-  "name": "splayer",
-  "version": "2.1.0",
+  "name": "XMusic",
+  "version": "1.0.0",
   "description": "A minimalist music player",
   "main": "./out/main/index.js",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
-  "repository": "github:imsyy/SPlayer",
+  "author": "WXHUB",
+  "home": "https://www.wxss.fit",
+  "github": "https://github.com/Asplla/music",
+  "repository": "github:Aspllamusic",
   "license": "AGPL-3.0",
   "license-file": "LICENSE",
   "engines": {
